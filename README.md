@@ -30,7 +30,7 @@ Each model is tested on datasets and evaluated based on accuracy and performance
 - report.md
 
 ## 🔗 GitHub Repository
-(Your repo link here)
+https://github.com/dys0511/ANN-Mini-Project
 
 ## 📌 Conclusion
 This project helped in understanding the fundamentals of neural networks and their applications in pattern classification.
