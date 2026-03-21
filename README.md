@@ -1,10 +1,10 @@
  # Artificial Neural Network Mini Project
 
 ## 👥 Team Members
-- Member 1 (Your Name)
-- Member 2
-- Member 3
-- Member 4
+- Deeksha Y Shettigar
+- Ankitha K
+- Kavya
+- Lenisha Joseph Dias
 
 ## 📌 Project Description
 This project focuses on the implementation of different Artificial Neural Network (ANN) models using Python. The goal is to understand the working and performance of basic neural network architectures.
