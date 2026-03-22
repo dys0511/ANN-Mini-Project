@@ -27,7 +27,6 @@ Each model is tested on datasets and evaluated based on accuracy and performance
 - perceptron.py
 - competitive_learning.py
 - feedforward_nn.py
-- report.md
 
 ## 🔗 GitHub Repository
 https://github.com/dys0511/ANN-Mini-Project
