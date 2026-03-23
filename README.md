@@ -1,4 +1,4 @@
- #**Artificial Neural Network Mini Project**
+# Artificial Neural Network Mini Project
 
 ## Team Members
 - Ankitha K - 01SU24AI014
