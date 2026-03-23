@@ -1,15 +1,15 @@
-# Artificial Neural Network Mini Project
+ Artificial Neural Network Mini Project
 
-## Team Members
+ Team Members
 - Ankitha K - 01SU24AI014
 - Deeksha Y Shettigar - 01SU24AI023
 - Kavya - 01SU24AI041
 - Lenisha Joseph Dias - 01SU24AI044
 
-## Project Description
+ Project Description
 This mini project focuses on implementing basic Artificial Neural Network (ANN) models using Python. The aim is to understand how different neural network techniques work and how they can be used for simple classification and pattern recognition tasks.
  
-## Models Implemented
+ Models Implemented
 
 ### 1. Perceptron Model
 A simple single-layer neural network used for classification. It was implemented using the Iris dataset and evaluated based on accuracy.
@@ -35,9 +35,9 @@ A multi-layer neural network consisting of input, hidden, and output layers. It 
 - **GitHub** – Used for version control, collaboration among team members, and project submission.  
 
 ## Project Files
-- perceptron.ipynb  
-- competitive_learning.ipynb  
-- feedforward_nn.ipynb  
+- https://github.com/dys0511/ANN-Mini-Project/blob/main/perceptron.ipynb
+- https://github.com/dys0511/ANN-Mini-Project/blob/main/Competitive_Learning_2D.ipynb 
+- https://github.com/dys0511/ANN-Mini-Project/blob/main/feedforward_network%20(1).ipynb  
  
 
 ## Results
@@ -57,4 +57,4 @@ Through this project, we were able to understand the basics of neural networks a
  
 
 ## Repository Link
-(Add your GitHub link here)
+https://github.com/dys0511/ANN-Mini-Project
