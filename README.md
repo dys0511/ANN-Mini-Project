@@ -1,15 +1,15 @@
- **Artificial Neural Network Mini Project**
+ #**Artificial Neural Network Mini Project**
 
- Team Members
+## Team Members
 - Ankitha K - 01SU24AI014
 - Deeksha Y Shettigar - 01SU24AI023
 - Kavya - 01SU24AI041
 - Lenisha Joseph Dias - 01SU24AI044
 
- Project Description
+## Project Description
 This mini project focuses on implementing basic Artificial Neural Network (ANN) models using Python. The aim is to understand how different neural network techniques work and how they can be used for simple classification and pattern recognition tasks.
  
- Models Implemented
+## Models Implemented
 
 ### 1. Perceptron Model
 A simple single-layer neural network used for classification. It was implemented using the Iris dataset and evaluated based on accuracy.
@@ -49,8 +49,6 @@ A multi-layer neural network consisting of input, hidden, and output layers. It 
 - Understanding the concept of competitive learning  
 - Implementing the algorithm from scratch  
 - Choosing appropriate parameters for better performance  
- 
-
 ## Conclusion
 Through this project, we were able to understand the basics of neural networks and how different models work. It also helped us gain practical experience in implementing machine learning algorithms.
  
