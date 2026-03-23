@@ -1,4 +1,4 @@
- Artificial Neural Network Mini Project
+ **Artificial Neural Network Mini Project**
 
  Team Members
 - Ankitha K - 01SU24AI014
@@ -21,7 +21,6 @@ An unsupervised learning model where neurons compete to represent input data. Th
 A multi-layer neural network consisting of input, hidden, and output layers. It was used for classification tasks and trained using available datasets.
 
 ## Tools and Technologies
-
 - **Python** – Used as the main programming language for implementing all models.  
 
 - **NumPy** – Used for numerical operations, array handling, and implementing the competitive learning algorithm.  
