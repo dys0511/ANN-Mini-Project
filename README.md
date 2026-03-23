@@ -28,8 +28,6 @@ Each model is tested on datasets and evaluated based on accuracy and performance
 - competitive_learning.py
 - feedforward_nn.py
 
-## 🔗 GitHub Repository
-https://github.com/dys0511/ANN-Mini-Project
 
 ## 📌 Conclusion
 This project helped in understanding the fundamentals of neural networks and their applications in pattern classification.
